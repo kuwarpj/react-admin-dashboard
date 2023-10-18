@@ -1,0 +1,24 @@
+.App {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: flex-start;
+  height: 100vh;
+  width: 100vw;
+  background-color: #282c34;
+}
+.navbar {
+  display: none;
+}
+.responsiveSidebar {
+  display: none;
+}
+
+@media screen and (max-width: 768px) {
+  .navbar {
+    display: block !important;
+  }
+  .responsiveSidebar {
+    display: block;
+  }
+}

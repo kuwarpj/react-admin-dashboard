@@ -1,5 +1,5 @@
 .dashboard {
-  border: 2px solid red;
+
   width: 100%;
   padding: 30px;
   background-color: rgb(245, 246, 248);
@@ -136,7 +136,7 @@
 
 
 .dashboard-chart{
-  border: 2px solid red;
+
   display: flex;
 }
 
@@ -146,7 +146,7 @@
  
   .card-wrap{
 
-    border: 2px solid blue;
+
     display: flex;
    flex-wrap: wrap;
  
@@ -203,7 +203,7 @@ justify-content: center;
 
   .search-wrap{
     width: 100% !important;
-    border: 2px solid red;
+   
     display:  flex;
     flex-direction: row;
     justify-content: space-between;

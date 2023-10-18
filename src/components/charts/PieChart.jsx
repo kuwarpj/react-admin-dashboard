@@ -39,7 +39,7 @@ const PieChartComponent = () => {
         item
         xs={4}
         style={{
-          border:"2px solid blue",
+         
           backgroundColor: "white",
           borderRadius: "2px",
 
